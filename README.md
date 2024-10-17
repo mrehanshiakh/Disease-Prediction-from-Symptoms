@@ -1,1 +1,1 @@
-# Disease-Prediction-from-Symptoms
+# chronic-disease-Prediction-from-Symptoms
